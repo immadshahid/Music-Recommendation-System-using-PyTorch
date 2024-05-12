@@ -1,6 +1,6 @@
 # Spotivibe a music recommendation system similar to Spotify
 Project of the Fundamentals of Big Data Analytics Course <br>
-Spotivibe development using PySpark <br>
+
 
 
 # Team Members
@@ -9,4 +9,3 @@ Spotivibe development using PySpark <br>
 3) Ahmed Luqman 22i-2018 <br>
 
 # Overview
-c
