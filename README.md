@@ -25,7 +25,9 @@ This is a music recommendation model similar to Spotivibe developed entirely usi
 7) PyMongo <br>
 
 # Dataset Link
-**[`fma_small.zip`]**: 8,000 tracks of 30s, 8 balanced genres  (7.2 GiB)
+1. **[`fma_small.zip`]**: 8,000 tracks of 30s, 8 balanced genres (7.2 GiB)
+
+[`fma_small.zip`]:    https://os.unil.cloud.switch.ch/fma/fma_small.zip
 
 # Installation
 1) **Python:** Install Python from the [official website](https://www.python.org). <br>
