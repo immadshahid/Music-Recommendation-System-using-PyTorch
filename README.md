@@ -24,6 +24,9 @@ This is a music recommendation model similar to Spotivibe developed entirely usi
 6) Scikit-learn <br>
 7) PyMongo <br>
 
+# Dataset Link
+[`fma_small.zip`]:    https://os.unil.cloud.switch.ch/fma/fma_small.zip
+
 # Installation
 1) **Python:** Install Python from the [official website](https://www.python.org). <br>
 2) **Pandas:** pip install pandas <br>
