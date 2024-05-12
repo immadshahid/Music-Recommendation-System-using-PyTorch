@@ -1,4 +1,4 @@
-# Music Recommendation system similar to Spotify
+# Spotivibe a music recommendation system similar to Spotify
 Project of the Fundamentals of Big Data Analytics Course <br>
 Spotivibe development using PySpark <br>
 
